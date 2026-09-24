@@ -78,7 +78,7 @@ On Windows, use `py -3 compare_studies.py`. The script reads `data/` and writes 
 
 This was a course project at the Euro-Mediterranean University of Fez (UEMF).
 
-I chose the datasets and the research question, ran the analysis on my own computer, checked the results against the two original papers, and interpreted them. The Python code was written with the help of Claude, an AI assistant made by Anthropic, and I reviewed and tested it. This README was also drafted with AI help and edited by me.
+I chose the datasets and the research question, ran the analysis on my own computer, checked the results against the two original papers, and interpreted them. The Python code was written with the help of Claude, an AI assistant made by Anthropic, and I reviewed and tested it.
 
 ## References
 
