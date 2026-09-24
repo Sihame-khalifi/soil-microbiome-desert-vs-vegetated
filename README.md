@@ -1,4 +1,4 @@
-# Desert vs vegetated soils: a 16S rRNA comparison of two MGnify studies
+# Soil microbiome: desert vs vegetated soils
 
 This project compares the soil bacteria of the Atacama Desert with those of an Alaskan tundra and an Oklahoma prairie. It reuses public data from two published studies and processes both with the same Python script.
 
