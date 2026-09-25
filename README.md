@@ -54,7 +54,7 @@ The two files in `data/` are the `taxonomy_abundances_SSU` tables downloaded fro
 
 ## Limitations
 
-The two studies used different primers, sequencing platforms, years and MGnify pipeline versions, so part of the difference between them may be technical. Harmonization and rarefaction reduce this but cannot remove it. Alaska and Oklahoma samples were not separated, and the study A table has 36 runs for 19 soils, so some soils may be counted twice. Results are at family level and in relative abundance only.
+The two studies used different primers, sequencing platforms, years and MGnify pipeline versions, so part of the difference between them may be technical. Harmonization and rarefaction reduce this but cannot remove it. Alaska and Oklahoma samples were not separated, and the study A table has 36 runs for 19 soils, so some soils may be counted twice. Results are at family level and in relative abundance only.Because each soil group comes from a different study, the desert-versus-vegetated difference cannot be fully separated from differences between the two studies
 
 ## How to run it
 
