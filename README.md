@@ -2,9 +2,14 @@
 
 This project compares the soil bacteria of the Atacama Desert with those of an Alaskan tundra and an Oklahoma prairie. It reuses public data from two published studies and processes both with the same Python script.
 
-**Question:** is a hyper-arid desert soil more different from vegetated soils than an Arctic tundra is from a temperate prairie?
+**Question:** Which does more to shape a soil bacterial community, low
+temperature or lack of water?
 
-Each original paper looked at one environment only. Neither compares a desert with vegetated soils, which is what this project does.
+The Alaskan tundra and the Oklahoma prairie are both vegetated but differ in
+climate, so comparing them isolates a temperature contrast. The Atacama is warm
+but hyper-arid, so comparing it to the vegetated soils isolates a water contrast.
+Putting both on the same diversity and ordination axes shows which of the two
+separates communities further.
 
 ## Data
 
